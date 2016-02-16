@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depoesiamatoria00hoelgoog_0007.png"; bbox 0 0 2910 4920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 2046 1403 2237">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 2046 1403 2237">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 2046 1403 2131; baseline 0.003 -23"><span class='ocrx_word' id='word_1_1' title='bbox 277 2046 458 2109; x_wconf 73' lang='lat' dir='ltr'>Dissertatio</span> <span class='ocrx_word' id='word_1_2' title='bbox 491 2047 683 2129; x_wconf 81' lang='lat' dir='ltr'>inauguralis</span> <span class='ocrx_word' id='word_1_3' title='bbox 711 2047 750 2109; x_wconf 81' lang='lat' dir='ltr'>ab</span> <span class='ocrx_word' id='word_1_4' title='bbox 779 2047 975 2130; x_wconf 75' lang='lat' dir='ltr'>amplissimo</span> <span class='ocrx_word' id='word_1_5' title='bbox 1005 2047 1256 2131; x_wconf 75' lang='lat' dir='ltr'>philosoplwrum</span> <span class='ocrx_word' id='word_1_6' title='bbox 1290 2049 1403 2112; x_wconf 66' lang='lat' dir='ltr'>ordine</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 462 2153 1213 2237; baseline -0.001 -21"><span class='ocrx_word' id='word_1_7' title='bbox 462 2154 588 2237; x_wconf 80' lang='lat' dir='ltr'>probata</span> <span class='ocrx_word' id='word_1_8' title='bbox 609 2176 635 2216; x_wconf 81' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_9' title='bbox 659 2154 687 2216; x_wconf 78' lang='lat' dir='ltr'>d.</span> <span class='ocrx_word' id='word_1_10' title='bbox 711 2155 738 2216; x_wconf 87' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_11' title='bbox 763 2154 831 2217; x_wconf 81' lang='lat' dir='ltr'>Kal.</span> <span class='ocrx_word' id='word_1_12' title='bbox 856 2155 944 2217; x_wconf 81' lang='lat' dir='ltr'>Mart.</span> <span class='ocrx_word' id='word_1_13' title='bbox 967 2153 1042 2217; x_wconf 86' lang='lat' dir='ltr'>anni</span> <span class='ocrx_word' id='word_1_14' title='bbox 1065 2154 1093 2216; x_wconf 91' lang='lat' dir='ltr'>h.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1118 2175 1140 2217; x_wconf 90' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1166 2155 1213 2216; x_wconf 73' lang='lat' dir='ltr'>w.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1460 4920">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1460 4920">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1460 4920; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1460 4920; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
